@@ -1,0 +1,6 @@
+	Item no 	Name of the furniture			Quantity availble      Unit Price  	Total Income
+	
+001		Chair					30			Rs.2500.00	   Rs.75000.00
+002		Table					20			Rs.5000.00	   Rs.100000.00
+003		Cupboard				10			Rs.25000.00        Rs.250000.00
+004		Sofa Set				10			Rs.125000.00	   Rs.1250000.00

@@ -1,0 +1,8 @@
+	Item no 	Name of the furniture			Quantity availble	Price	
+001		Chair					30			Rs.2500.00
+002		Table					20			Rs.5000.00
+003		Cupboard				15			Rs.25000.00
+004		Sofa Set				05			Rs.125000.00
+005		Bed					07			Rs.10000.00 
+006		Computer Table				20			Rs.5500.00
+007		Shoe Rack				10			Rs.2500.00		

@@ -1,0 +1,4 @@
+        pasindu                   CHAIR        Rs6000.00       x10        Rs60000.00
+        pasindu                     BED        Rs10000.00       x5        Rs50000.00
+                                                                        ___________Rs110000.00
+
